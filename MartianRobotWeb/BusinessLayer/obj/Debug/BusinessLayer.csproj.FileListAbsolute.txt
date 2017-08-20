@@ -1,6 +1,0 @@
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
-C:\MartianRobotProject\MartianRobotWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
