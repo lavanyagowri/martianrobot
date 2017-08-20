@@ -1,0 +1,18 @@
+﻿@model List<BusinessLayer.Domain.Position>
+@{
+    ViewBag.Title = "StartExploration";
+    Layout = "~/Views/Shared/_siteMaster.cshtml";
+}
+
+<h2>StartExploration</h2>
+
+<h2>Output</h2>
+ @foreach (var result in ViewData.Model) { 
+<p>
+    @result.X.ToString()
+    @result.Y.ToString() 
+    @result.Direction.ToString().ToCharArray()[0] 
+    @result.ErrorMessage
+   
+</p>
+   } 
